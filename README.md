@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ch0pex
-- 👀 I’m interested in game and app development
+- 👀 I’m interested in software development
 - 🌱 I’m currently studying Computer Science Engineering at UC3M
 - 📫 How to reach me acbsur1@gmail.com
 
