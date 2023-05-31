@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ch0pex
+- 👋 Hi, my name is Álvaro Cabrera Barrio
 - 👀 I’m interested in software development
 - 🌱 I’m currently studying Computer Science Engineering at UC3M
 - 📫 How to reach me alvarocabrerabarrio@gmail.com
