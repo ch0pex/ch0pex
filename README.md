@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ch0pex
-- 👀 I’m interested in game and app development
 - 🌱 I’m currently studying Computer Science Engineering at UC3M
-- 📫 How to reach me acbsur1@gmail.com
+- 📫 How to reach me alvarocabrerabarrio@gmail.com
 
 <!---
 ch0pex/ch0pex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
